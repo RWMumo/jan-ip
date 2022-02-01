@@ -4,8 +4,8 @@
 }
 .welcome{
   background-image: url("h_img.jpg");
+  background-position: center;
   margin: auto;
-  text-align: center;
   font-size: medium;
   
 }
