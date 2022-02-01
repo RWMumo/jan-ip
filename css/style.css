@@ -1,0 +1,11 @@
+
+.body{
+    text-align: center;
+}
+.welcome{
+  background-image: url("h_img.jpg");
+  margin: auto;
+  text-align: center;
+  font-size: medium;
+  
+}
