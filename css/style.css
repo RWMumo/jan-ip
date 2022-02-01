@@ -5,11 +5,15 @@
 
 }
 .welcome{
-  background-image: url(h_img.jpg);
+  background-image: url();
   background-position: center;
   margin: auto;
   font-size: medium;
   
+}
+.design{
+    display: block;
+    
 }
 .work{
     resize: 40px ;
