@@ -34,14 +34,55 @@
 
 }
 .design{
+    margin-left: 400px;
+    margin-right: 400px;
     width: 400px;
     float: left;
     margin: 50px;
     
 }
 .portfolio{
-    display: block;
-    margin: auto;
+    margin: 20px;
+}
+.portfolioa{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+.portfoliob{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+.portfolioc{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+.portfoliod{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+.portfolioe{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+.portfoliof{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+.portfoliog{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+.portfolioh{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
 }
 .work{
     resize: 40px ;
