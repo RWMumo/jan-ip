@@ -1,19 +1,47 @@
 
 .body{
     text-align: center;
+    margin-top: auto;
     
 
 }
 .welcome{
-  background-image: url();
+  background-image: url(/images/h_img.jpg);
   background-position: center;
-  margin: auto;
-  font-size: medium;
+  background-size: contain;
+  height: 350px;
+  width: 900px;
+  margin : auto;
+  font-size: large;
+  color: azure;
   
 }
+.services{
+    background-image: url(/images/s_image.jpg);
+    background-size: contain;
+    height: 200px;
+    width: 900px;
+    color: azure;
+    font-size: small;
+    background-position: center;
+    margin-left: 300px;
+}
+.columns{ 
+    text-align: center;
+    width: 400px;
+    float: left;
+    margin: 50px;
+
+}
 .design{
-    display: block;
+    width: 400px;
+    float: left;
+    margin: 50px;
     
+}
+.portfolio{
+    display: block;
+    margin: auto;
 }
 .work{
     resize: 40px ;
