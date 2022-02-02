@@ -34,7 +34,7 @@
 
 }
 .design{
-    margin-left: 400px;
+    margin-left: 400x;
     margin-right: 400px;
     width: 400px;
     float: left;
@@ -88,6 +88,15 @@
     resize: 40px ;
     margin: auto;
     
+}
+.contact{
+    background-image: url(/images/c_image.jpg);
+    color: azure;
+    background-position: center;
+    background-size: contain;
+    height: 300px;
+    width: 900px;
+    margin-left: 300px;
 }
 
 
