@@ -33,13 +33,26 @@
     margin: 50px;
 
 }
-.design{
+.designa{
     margin-left: 400x;
     margin-right: 400px;
     width: 400px;
     float: left;
     margin: 50px;
-    
+}
+.designb{
+    margin-left: 400x;
+    margin-right: 400px;
+    width: 400px;
+    float: left;
+    margin: 50px;
+}
+.designc{
+    margin-left: 400x;
+    margin-right: 400px;
+    width: 400px;
+    float: left;
+    margin: 50px;
 }
 .portfolio{
     margin: 20px;
@@ -97,6 +110,20 @@
     height: 300px;
     width: 900px;
     margin-left: 300px;
+    border: azure;
+
+    
+}
+.transbox{
+    border: azure;
+    background-color: transparent;
+background-color: transparent;
+opacity: 0;
+}
+
+/* jquery */
+.designashowing{
+    display: none;
 }
 
 
