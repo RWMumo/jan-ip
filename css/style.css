@@ -28,13 +28,15 @@
 }
 .columns{ 
     text-align: center;
-    width: 400px;
+    width: 300px;
     float: left;
     margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 .designa{
-    margin-left: 400x;
+    margin-left: 400px;
     margin-right: 400px;
     width: 400px;
     float: left;
@@ -122,14 +124,34 @@ opacity: 1;
 }
 
 /* jquery */
+
 .designashowing{
-    display: none;
+    display: hidden;
 }
 .designbshowing{
-    display: none;
+    display: hidden;
 }
 .designcshowing{
-    display: none;
+    display: hidden;
 }
 
+.design{
+    width: 250px;
+    border: black;
+    padding: 50px;
+    margin: 20px;
+}
+.development{
+    width: 280px;
+    border:black;
+    padding: 50px;
+    margin: 20px;
+}
+.product{
+    width: 280px;
+    border: black;
+    padding: 50px;
+    margin: 20px;  
 
+
+}
