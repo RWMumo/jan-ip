@@ -3,21 +3,21 @@ $(document).ready(function() {
     $(".designashowing").show();
   });
 });
-console.log(designa)
+// console.log(designa)
 
 $(document).ready(function() {
   $(".designb").hover(function() {
     $(".designbshowing").show();
   });
 });
-console.log(designb)
+// console.log(designb)
 
 $(document).ready(function() {
   $(".designc").hover(function() {
     $(".designcshowing").show();
   });
 });
-console.log(designc)
+// console.log(designc)
 
 
 

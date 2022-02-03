@@ -6,7 +6,7 @@
 
 }
 .welcome{
-  background-image: url(/images/h_img.jpg);
+  background-image: url(../images/h_img.jpg);
   background-position: center;
   background-size: contain;
   height: 350px;
@@ -17,7 +17,7 @@
   
 }
 .services{
-    background-image: url(/images/s_image.jpg);
+    background-image: url(../images/s_image.jpg);
     background-size: contain;
     height: 200px;
     width: 900px;
@@ -105,7 +105,7 @@
     
 }
 .contact{
-    background-image: url(/images/c_image.jpg);
+    background-image: url(../images/c_image.jpg);
     color: black;
     background-position: center;
     background-size: contain;
