@@ -28,34 +28,12 @@
 }
 .columns{ 
     text-align: center;
-    width: 300px;
-    float: left;
-    margin: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
+    width: 200px;
+    margin: auto;
+    padding: 2%;
+    
+}
 
-}
-.designa{
-    margin-left: 400px;
-    margin-right: 400px;
-    width: 400px;
-    float: left;
-    margin: 50px;
-}
-.designb{
-    margin-left: 400x;
-    margin-right: 400px;
-    width: 400px;
-    float: left;
-    margin: 50px;
-}
-.designc{
-    margin-left: 400x;
-    margin-right: 400px;
-    width: 400px;
-    float: left;
-    margin: 50px;
-}
 .portfolio{
     margin: 20px;
 }
@@ -135,23 +113,9 @@ opacity: 1;
     display: none;
 }
 
-/* .design{
-    width: 250px;
-    border: black;
-    padding: 50px;
-    margin: 20px; */
-/* } */
-/* .development{
-    width: 280px;
-    border:black;
-    padding: 50px;
-    margin: 20px; */
-/* } */
-/* .product{
-    width: 280px;
-    border: black;
-    padding: 50px;
-    margin: 20px;   */
+.row{
+    display: flex;
+    /* border: 2px solid red; */
 
 
-/* } */
+}
