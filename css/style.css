@@ -11,7 +11,7 @@
   background-size: contain;
   height: 350px;
   width: 900px;
-  margin : auto;
+ margin-left: 300px;
   font-size: large;
   color: azure;
   
@@ -126,13 +126,13 @@ opacity: 1;
 /* jquery */
 
 .designashowing{
-    display: hidden;
+    display: none;
 }
 .designbshowing{
-    display: hidden;
+    display: none;
 }
 .designcshowing{
-    display: hidden;
+    display: none;
 }
 
 /* .design{
