@@ -91,49 +91,6 @@ $(document).ready(function(){
     $("#overlay8").hide();
   });
 });
-// $(document).ready(function() {
-//   $(".portfolioa").mouseover(function() {
-//     $("#portfolio1").show();
-//   }).mouseout(function() {
-//     $("#portfolio1").hide();
-//   });
-// });
-
-// $(document).ready(function() {
-//   $(".portfoliob").hover(function() {
-//     $(".portfolio2").show();
-//   });
-// });
-// $(document).ready(function() {
-//   $(".portfolioc").hover(function() {
-//     $(".portfolio3").show();
-//   });
-// });
-// $(document).ready(function() {
-//   $(".portfoliod").hover(function() {
-//     $(".portfolio4").show();
-//   });
-// });
-// $(document).ready(function() {
-//   $(".portfolioe").hover(function() {
-//     $(".portfolio5").show();
-//   });
-// });
-// $(document).ready(function() {
-//   $(".portfoliof").hover(function() {
-//     $(".portfolio6").show();
-//   });
-// });
-// $(document).ready(function() {
-//   $(".portfoliog").hover(function() {
-//     $(".portfolio7").show();
-//   });
-// });
-// $(document).ready(function() {
-//   $(".portfolioh").hover(function() {
-//     $(".portfolio8").show();
-//   });
-// });
 
 // form
 $('.submit').click(function () {
